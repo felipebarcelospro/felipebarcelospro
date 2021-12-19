@@ -1,6 +1,6 @@
 # Felipe Barcelos
 
-Desenvolvedor Full Cycle
+Full Cycle Developer
 
 [![Linkedin Badge](https://img.shields.io/badge/-felipebarcelospro-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipebarcelospro/)](https://www.linkedin.com/in/felipebarcelospro/) 
 [![Gmail Badge](https://img.shields.io/badge/-felipebarcelospro@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:felipebarcelospro@gmail.com)](mailto:felipebarcelospro@gmail.com)
