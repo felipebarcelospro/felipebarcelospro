@@ -7,6 +7,6 @@ Desenvolvedor Full Cycle
 
 Enthusiast of the best web and mobile development technologies.
 
-Passionate about developing solutions to optimize the daily lives of my partners. I am currently a Senior Full Cycle developer.
+Passionate about developing solutions to optimize the daily lives of my partners. I am currently a Senior Full Cycle developer and working on @anotaai and @quimiweb.
 
-"Every dream you leave behind is a piece of the future that ceases to exist"
+"Every dream you leave behind is a piece of the future that ceases to exist" - Steve Jovs
