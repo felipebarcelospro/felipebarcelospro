@@ -1,15 +1,79 @@
-# Felipe Barcelos
-### Passionate full-stack developer building innovative projects with emerging technologies. Focused on scalable and high-performance solutions.
+# Felipe Barcelos 👋
 
+📍 **Brazil** | 🎬 **Creator @ [Vibe Dev](https://youtube.com/@vibedev.official)** | 🚀 **Founder of [Igniter.js](https://igniterjs.com) & [Fractal](https://tryfractal.co)**
 
+Helping developers plan, build, and launch SaaS products. Building open-source tools and AI-powered systems.
 
- <a aligh="left" href="https://instagram.com/vibe.dev" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/socials/globe.svg" alt="Website" width="22" height="22" /></a> <a aligh="left" href="mailto:felipebarcelospro@gmail.com" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/socials/at.svg" alt="Email" width="22" height="22" /></a> <a aligh="left" href="https://twitter.com/feldbarcelospro" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/socials/twitter.svg" alt="Twitter" width="22" height="22" /></a> <a aligh="left" href="https://www.linkedin.com/in/felipebarcelospro" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/socials/linkedin.svg" alt="LinkedIn" width="22" height="22" /></a>  
+## What I Do
 
-⚐ Based in Brazil
+- 🎬 **[Vibe Dev](https://youtube.com/@vibedev.official)** — YouTube channel (11K+ subs) teaching devs to build and launch SaaS products
+- 🦾 **[Fractal](https://tryfractal.co)** — AI Operating System with persistent memory, autonomous agents, and tool orchestration
+- 🔥 **[Igniter.js](https://igniterjs.com)** — Modern, type-safe HTTP framework ecosystem for TypeScript
+- 🏗️ **[SaaS Boilerplate](https://saas-boilerplate.vibedev.com.br)** — Production-ready SaaS boilerplate to launch your product faster
+- 👥 **[Comunidade Vibe Dev](https://youtube.com/@vibedev.official)** — Community of builders shipping real products
 
-ϟ Currently Building 12 Micro Saas in one year
+## Open Source: Igniter.js Ecosystem
 
-ϟ Recently Launched NotifyLog and VCResolve
+A complete type-safe framework ecosystem for building scalable TypeScript applications.
 
- ## Skills
-   <a href="https://www.javascript.com" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/core/javascript.svg" alt="JavaScript" width="25" height="25" /></a> <a href="https://www.php.net" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/core/php.svg" alt="PHP" width="25" height="25" /></a> <a href="https://www.typescriptlang.org" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/core/typescript.svg" alt="Typescript" width="25" height="25" /></a>  <a href="https://html.com/html5/" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/frontend/html5.svg" alt="HTML5" width="25" height="25" /></a> <a href="https://css3.com" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/frontend/css3.svg" alt="CSS3" width="25" height="25" /></a> <a href="https://reactjs.org" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/frontend/react.svg" alt="React" width="25" height="25" /></a> <a href="https://angularjs.org" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/frontend/angular.svg" alt="Angular" width="25" height="25" /></a> <a href="https://nextjs.org" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/frontend/nextjs.svg" alt="NextJS" width="25" height="25" /></a> <a href="http://tailwindcss.com" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/frontend/tailwind.svg" alt="Tailwind" width="25" height="25" /></a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/frontend/bootstrap.svg" alt="Bootstrap" width="25" height="25" /></a> <a href="http://vitejs.dev/" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/frontend/vite.svg" alt="Vite" width="25" height="25" /></a>  <a href="https://nodejs.org" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/backend/nodejs.svg" alt="NodeJS" width="25" height="25" /></a> <a href="http://expressjs.com" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/backend/express.svg" alt="Express" width="25" height="25" /></a> <a href="https://graphql.org" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/backend/graphql.svg" alt="GraphQL" width="25" height="25" /></a> <a href="https://www.mongodb.com" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/backend/mongodb.svg" alt="Mongo DB" width="25" height="25" /></a> <a href="https://www.mysql.com" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/backend/mysql.svg" alt="MySQL" width="25" height="25" /></a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/backend/postgresql.svg" alt="PostgreSQL" width="25" height="25" /></a> <a href="https://firebase.google.com" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/backend/firebase.svg" alt="Firebase" width="25" height="25" /></a> <a href="https://www.heroku.com" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/backend/heroku.svg" alt="Heroku" width="25" height="25" /></a> <a href="https://supabase.com" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/backend/supabase.svg" alt="Supabase" width="25" height="25" /></a> <a href="http://planetscale.com" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/backend/planetscale.svg" alt="PlanetScale" width="25" height="25" /></a> <a href="http://prisma.io" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/backend/prisma.svg" alt="Prisma" width="25" height="25" /></a> <a href="http://trpc.io" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/backend/trpc.svg" alt="tRPC" width="25" height="25" /></a> 
+### Core
+| Package | Description |
+|---------|-------------|
+| [@igniter-js/core](https://npmjs.com/package/@igniter-js/core) | Modern, type-safe HTTP framework for building scalable APIs |
+| [@igniter-js/cli](https://npmjs.com/package/@igniter-js/cli) | Next-generation command-line interface for Igniter.js |
+| [@igniter-js/common](https://npmjs.com/package/@igniter-js/common) | Shared primitives for Igniter.js packages |
+
+### Client & Communication
+| Package | Description |
+|---------|-------------|
+| [@igniter-js/caller](https://npmjs.com/package/@igniter-js/caller) | Type-safe HTTP client with interceptors, retries, caching, and Streaming |
+| [@igniter-js/bot](https://npmjs.com/package/@igniter-js/bot) | Multi-platform bot framework for the Igniter.js ecosystem |
+| [@igniter-js/mail](https://npmjs.com/package/@igniter-js/mail) | Type-safe email library with React Email templates and multiple providers |
+
+### Data & Storage
+| Package | Description |
+|---------|-------------|
+| [@igniter-js/store](https://npmjs.com/package/@igniter-js/store) | Type-safe distributed store with Redis support and scoped operations |
+| [@igniter-js/storage](https://npmjs.com/package/@igniter-js/storage) | Adapter-based file storage with S3 and Google Cloud support |
+| [@igniter-js/collections](https://npmjs.com/package/@igniter-js/collections) | Type-safe content collections |
+| [@igniter-js/connectors](https://npmjs.com/package/@igniter-js/connectors) | Multi-tenant connector management with OAuth |
+
+### Jobs & Background Tasks
+| Package | Description |
+|---------|-------------|
+| [@igniter-js/jobs](https://npmjs.com/package/@igniter-js/jobs) | Type-safe jobs and workers with BullMQ, Bun SQLite, and mock adapters |
+
+### AI & Agents
+| Package | Description |
+|---------|-------------|
+| [@igniter-js/agents](https://npmjs.com/package/@igniter-js/agents) | Type-safe AI agent framework with MCP integration and custom toolsets |
+| [@igniter-js/mcp-server](https://npmjs.com/package/@igniter-js/mcp-server) | MCP Server for Igniter.js ecosystem interaction via STDIO |
+
+### Telemetry & Monitoring
+| Package | Description |
+|---------|-------------|
+| [@igniter-js/telemetry](https://npmjs.com/package/@igniter-js/telemetry) | Type-safe telemetry with session-based events and typed event system |
+| [@igniter-js/logger](https://npmjs.com/package/@igniter-js/logger) | Pino-based logger abstraction |
+
+### Adapters
+| Package | Description |
+|---------|-------------|
+| [@igniter-js/adapter-redis](https://npmjs.com/package/@igniter-js/adapter-redis) | Redis adapter |
+| [@igniter-js/adapter-bullmq](https://npmjs.com/package/@igniter-js/adapter-bullmq) | BullMQ adapter |
+| [@igniter-js/adapter-mcp-server](https://npmjs.com/package/@igniter-js/adapter-mcp-server) | MCP Server adapter |
+| [@igniter-js/adapter-opentelemetry](https://npmjs.com/package/@igniter-js/adapter-opentelemetry) | OpenTelemetry adapter |
+
+### Configuration & Plugins
+| Package | Description |
+|---------|-------------|
+| [@igniter-js/eslint](https://npmjs.com/package/@igniter-js/eslint) | ESLint configuration for Igniter.js projects |
+| [@igniter-js/plugin-better-auth](https://npmjs.com/package/@igniter-js/plugin-better-auth) | BetterAuth plugin — wires auth API into an 'auth' controller |
+
+## Tech Stack
+
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
